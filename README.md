@@ -1,0 +1,5 @@
+Meu nome é Lucas de Werk, tenho 18 anos e estou prestes a iniciar minha jornada acadêmica em Bacharelado de Sistemas de Informação. Sou apaixonado por desenvolvimento front-end e, ao longo dos últimos anos, me especializei em diversas tecnologias da área. Tenho amplo domínio de HTML para marcação de páginas, CSS para estilização e criação de layouts responsivos, além de JavaScript, a linguagem que uso para adicionar interatividade e dinamismo às interfaces.
+
+Meu foco principal tem sido no framework Vue.js, uma ferramenta poderosa que me permite desenvolver aplicações web escaláveis, eficientes e altamente interativas. O Vue.js se destaca pela simplicidade e flexibilidade, e eu aproveito esses benefícios para criar componentes reutilizáveis e interfaces que oferecem uma experiência de usuário fluida.
+
+Estou sempre buscando novas formas de melhorar minhas habilidades, seja estudando novas tecnologias, participando de projetos práticos ou explorando as melhores práticas em desenvolvimento front-end.
