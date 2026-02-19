@@ -24,6 +24,16 @@ filosofia: Código limpo, aprendizado contínuo
 
 <div align="center">
 
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=js,java,python,kotlin,html,css,nodejs,git,webstorm,idea,androidstudio&theme=dark" alt="Tech Stack" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=4a9eff)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=4a9eff)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4a9eff)
