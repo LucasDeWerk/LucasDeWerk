@@ -1,8 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:4a9eff&height=180&section=header&text=Lucas%20De%20Werk&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descSize=16&descAlignY=55&descColor=4a9eff&animation=fadeIn" />
+
 <div align="center">
 
-# Olá! Eu sou o Lucas 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=550&height=70&lines=%F0%9F%92%BB+Apaixonado+por+tecnologia;%F0%9F%9A%80+Sempre+aprendendo+algo+novo!;%E2%9A%A1+C%C3%B3digo+limpo+%2B+caf%C3%A9+%3D+produtividade)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,11 +10,14 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando em projetos **web** e **mobile**
-- 🌱 Sempre estudando e evoluindo nas tecnologias que utilizo
-- 💡 Gosto de resolver problemas com código limpo e eficiente
-- 🎯 Focado em me tornar um desenvolvedor cada vez mais completo
-- ⚡ Fun fact: Café ☕ + código = produtividade!
+```yaml
+nome: Lucas De Werk
+localização: Brasil 🇧🇷
+foco_atual: Desenvolvimento Web & Mobile
+aprendendo: Novas tecnologias todos os dias
+objetivo: Me tornar um dev cada vez mais completo
+hobby: Café ☕ + código = produtividade!
+```
 
 ---
 
@@ -22,31 +25,28 @@
 
 <div align="center">
 
-#### 🚀 Linguagens de Programação
+#### 🚀 Linguagens
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=4a9eff)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=4a9eff)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4a9eff)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=4a9eff)
 
 #### 🌐 Front-end
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=4a9eff)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=4a9eff)
 
 #### ⚙️ Back-end & Runtime
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=4a9eff)
 
-#### 🛠️ Ferramentas & Versionamento
+#### 🛠️ Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=4a9eff)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=4a9eff)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=4a9eff)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-0d1117?style=for-the-badge&logo=intellij-idea&logoColor=4a9eff)
 
 </div>
 
@@ -56,13 +56,13 @@
 
 | Tecnologia | Como eu uso |
 |:---:|---|
-| **JavaScript** | Desenvolvimento de aplicações web interativas e scripts front-end |
-| **Java** | Sistemas orientados a objetos e aplicações mais estruturadas |
-| **HTML / CSS** | Estruturação e estilização de interfaces bonitas e responsivas |
-| **Python** | Scripts, automação e desenvolvimento backend |
-| **Node.js** | Desenvolvimento backend robusto com JavaScript |
+| **JavaScript** | Aplicações web interativas e scripts front-end |
+| **Java** | Sistemas orientados a objetos e aplicações estruturadas |
+| **HTML / CSS** | Interfaces bonitas e responsivas |
+| **Python** | Scripts, automação e backend |
+| **Node.js** | Backend robusto com JavaScript |
 | **Kotlin** | Desenvolvimento mobile e aplicações modernas |
-| **Git / GitHub** | Versionamento de código para histórico e colaboração |
+| **Git / GitHub** | Versionamento e colaboração |
 
 ---
 
@@ -70,19 +70,7 @@
 
 <div align="center">
 
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasDeWerk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDeWerk&layout=donut&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=LucasDeWerk&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LucasDeWerk&theme=transparent&hide_border=true&ring=4a9eff&fire=1a6dff&currStreakLabel=4a9eff&sideLabels=4a9eff&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=1a3a5c)](https://git.io/streak-stats)
 
 </div>
 
@@ -92,17 +80,7 @@
 
 <div align="center">
 
-[![Lucas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasDeWerk&theme=rogue&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### 🏆 Troféus do GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LucasDeWerk&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasDeWerk&bg_color=0d1117&color=4a9eff&line=1a6dff&point=ffffff&area=true&area_color=1a3a5c&hide_border=true&custom_title=Minhas%20Contribui%C3%A7%C3%B5es)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -112,7 +90,7 @@
 
 ### 🤝 Vamos nos conectar!
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasDeWerk)
+[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=4a9eff)](https://github.com/LucasDeWerk)
 
 </div>
 
@@ -120,8 +98,11 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=LucasDeWerk&color=70a5fd&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=LucasDeWerk&color=4a9eff&style=for-the-badge&label=VISITANTES)
 
 *⚡ Sempre aprendendo, sempre evoluindo.*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:4a9eff&height=120&section=footer" />
+
