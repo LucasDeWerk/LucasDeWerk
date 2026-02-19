@@ -70,42 +70,39 @@
 
 <div align="center">
 
-<a href="https://github.com/LucasDeWerk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDeWerk&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-<a href="https://github.com/LucasDeWerk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDeWerk&layout=compact&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" />
-</a>
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasDeWerk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LucasDeWerk&theme=transparent&hide_border=true&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&sideLabels=70a5fd&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&background=0d1117)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDeWerk&layout=donut&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
----
-
-### 📈 Contribuições
-
 <div align="center">
 
-[![Lucas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasDeWerk&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LucasDeWerk&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 🐍 Minhas contribuições
+### 📈 Gráfico de Atividade
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasDeWerk/LucasDeWerk/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasDeWerk/LucasDeWerk/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/LucasDeWerk/LucasDeWerk/output/github-snake-dark.svg" />
-</picture>
+[![Lucas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasDeWerk&theme=rogue&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### 🏆 Troféus do GitHub
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LucasDeWerk&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
