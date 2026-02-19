@@ -20,17 +20,7 @@ filosofia: Código limpo, aprendizado contínuo
 
 ---
 
-### 💻 Tech Stack
-
-<div align="center">
-
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=js,java,python,kotlin,html,css,nodejs,git,github,vscode,idea&theme=dark" alt="Tech Stack" />
-</a>
-
-</div>
-
-<br>
+### 💻 Tecnologias
 
 <div align="center">
 
@@ -42,6 +32,9 @@ filosofia: Código limpo, aprendizado contínuo
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=4a9eff)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=4a9eff)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=4a9eff)
+![WebStorm](https://img.shields.io/badge/WebStorm-0d1117?style=for-the-badge&logo=webstorm&logoColor=4a9eff)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-0d1117?style=for-the-badge&logo=intellij-idea&logoColor=4a9eff)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0d1117?style=for-the-badge&logo=android-studio&logoColor=4a9eff)
 
 </div>
 
