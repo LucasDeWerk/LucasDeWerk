@@ -70,14 +70,18 @@
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasDeWerk&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="Lucas's GitHub Stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDeWerk&layout=compact&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="Lucas's Most Used Languages" />
+<a href="https://github.com/LucasDeWerk">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDeWerk&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+<a href="https://github.com/LucasDeWerk">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDeWerk&layout=compact&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" />
+</a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasDeWerk&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LucasDeWerk&theme=transparent&hide_border=true&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&sideLabels=70a5fd&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -97,7 +101,11 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/LucasDeWerk/LucasDeWerk/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasDeWerk/LucasDeWerk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasDeWerk/LucasDeWerk/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LucasDeWerk/LucasDeWerk/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
